@@ -5,9 +5,6 @@
     <h1 align="center">SIMPLEANDROIDAPP</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/github/license/kotlinoid/SimpleAndroidApp?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/kotlinoid/SimpleAndroidApp?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/kotlinoid/SimpleAndroidApp?style=flat&color=0080ff" alt="repo-top-language">
@@ -35,20 +32,6 @@
 > - [ Contributing](#-contributing)
 > - [ License](#-license)
 > - [ Acknowledgments](#-acknowledgments)
-
----
-
-##  Overview
-
-HTTP error 401 for prompt `overview`
-
----
-
-##  Features
-
-HTTP error 401 for prompt `features`
-
----
 
 ##  Repository Structure
 
